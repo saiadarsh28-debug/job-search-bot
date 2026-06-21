@@ -23,7 +23,7 @@ _load_env_file(Path(__file__).resolve().parent / ".env")
 # GEMINI
 # ---------------------------------------------------------
 
-GEMINI_ENABLED = True
+GEMINI_ENABLED = False
 
 GEMINI_MODEL = "gemini-2.0-flash"
 
@@ -514,20 +514,20 @@ JOB_FEEDS = [
         "url": "https://jobicy.com/api/v2/remote-jobs?count=50&tag=data-analyst",
         "country_hint": "Remote",
     },
-    {
-        "name": "Reed UK Data Analyst",
-        "kind": "reed_api",
-        "search_term": "data analyst",
-        "location": "London",
-        "country_hint": "United Kingdom",
-    },
-    {
-        "name": "Reed UK Analytics Engineer",
-        "kind": "reed_api",
-        "search_term": "analytics engineer",
-        "location": "United Kingdom",
-        "country_hint": "United Kingdom",
-    },
+    # {
+    #     "name": "Reed UK Data Analyst",
+    #     "kind": "reed_api",
+    #     "search_term": "data analyst",
+    #     "location": "London",
+    #     "country_hint": "United Kingdom",
+    # },
+    # {
+    #     "name": "Reed UK Analytics Engineer",
+    #     "kind": "reed_api",
+    #     "search_term": "analytics engineer",
+    #     "location": "United Kingdom",
+    #     "country_hint": "United Kingdom",
+    # },
     {
         "name": "Jobicy Business Intelligence Remote",
         "kind": "jobicy_api",
