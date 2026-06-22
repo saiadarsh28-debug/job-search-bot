@@ -1,0 +1,13 @@
+name: Test Schedule
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes for testing
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Run
+        run: echo "Scheduled workflow triggered at $(date)"
