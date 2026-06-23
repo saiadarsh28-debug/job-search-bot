@@ -23819,3 +23819,145 @@ Information Technology
 [2026-06-21 20:02:32] [INFO] Source run | Adzuna Netherlands Data Analyst | status=success | jobs=50
 [2026-06-21 20:02:32] [INFO] Adzuna Netherlands Data Analyst: 50 jobs in 2.24s
 [2026-06-21 20:02:32] [INFO] Source: Adzuna Singapore Data Analyst (adzuna_api)
+[2026-06-23 10:57:04] [INFO] ==================================================
+[2026-06-23 10:57:04] [INFO] JOB BOT RUN STARTED
+[2026-06-23 10:57:04] [INFO] Database initialized
+[2026-06-23 10:57:04] [INFO] Lookback hours selected: 168
+[2026-06-23 10:57:04] [INFO] Run started: 28
+[2026-06-23 10:57:04] [INFO] Scraper started | lookback=168h
+[2026-06-23 10:57:04] [INFO] Source: MCF Singapore Data Analyst (mcf_api)
+[2026-06-23 10:57:14] [INFO] Fetched: https://api.mycareersfuture.gov.sg/v2/jobs?search=data+analyst&limit=30&freshness=7
+[2026-06-23 10:57:14] [INFO] MCF Singapore Data Analyst: 30 jobs
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-0e934c4d7e1d9b51dfea965bb8ab4404
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-a359c3692d4b5f03869071eff58fd47f
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-0f0a2792bfc08d9929ca3a4347bcdae5
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-47c5787238164956545ec8af455ed758
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-a5b80eeb2e13e49c2020541b7b3aa61f
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-a4db80330f2621452262b58ffa68b179
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-c83fb537a1613da1be43db42c5b39b99
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-cf6e584847a32b52fb543f6c2afd0820
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-f92b995a23a9f8fcb7b5d037128bbee3
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-2ddf4ffc9c0e9ac08ed323827d7b00aa
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-9c371d5d54cb5dba4e1aa3bdc0daa37e
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-6449a31bcb246e941c803c20900dcc6d
+[2026-06-23 10:57:14] [INFO] Description cache hit: mcf-abd2b946f7fe8bede85c0d603761cdf3
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-f140a6d4ed2a8886bdc09c9d6a0bcdb2
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-fa17c33ebc3b3e59ea6409f06f81eca1
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-ee171709208660fa7fb537e1425a383e
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-745711febd576e165c4eefb44f2d7a92
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-d0a7131fa0ccef3bc901e48be3e0a016
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-d79bb263df09f8c00e7a0360f1388087
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-e781f2ea8dee8ecbf3a918dd43aeb9b4
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-c1c39edc206c70d9d6a5961337b40fe4
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-87d4dc44051ad3c6d96e62b6a4c44f57
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-3149d093ad70a970a9df1c5f001b7175
+[2026-06-23 10:57:15] [INFO] Description cache hit: mcf-1b7690fee12d0be493a07e49b63b436a
+[2026-06-23 10:57:15] [INFO] Source run | MCF Singapore Data Analyst | status=success | jobs=30
+[2026-06-23 10:57:15] [INFO] MCF Singapore Data Analyst: 30 jobs in 9.05s
+[2026-06-23 10:57:15] [INFO] Source: RemoteOK Data Analyst (remoteok_api)
+[2026-06-23 10:57:21] [INFO] Fetched: https://remoteok.io/api?tag=data-analyst
+[2026-06-23 10:57:21] [INFO] RemoteOK Data Analyst parsed 0 jobs
+[2026-06-23 10:57:21] [INFO] Source run | RemoteOK Data Analyst | status=success | jobs=0
+[2026-06-23 10:57:21] [INFO] RemoteOK Data Analyst: 0 jobs in 4.23s
+[2026-06-23 10:57:21] [INFO] Source: RemoteOK Business Intelligence (remoteok_api)
+[2026-06-23 10:57:24] [INFO] Fetched: https://remoteok.io/api?tag=analyst
+[2026-06-23 10:57:24] [INFO] RemoteOK Business Intelligence parsed 100 jobs
+[2026-06-23 10:57:25] [INFO] Description cache hit: 73716069f67a954180fffb703055d751
+[2026-06-23 10:57:25] [INFO] Description cache hit: 5e44ad3ae27c080490c31a7ca2f9275d
+[2026-06-23 10:57:25] [INFO] Description cache hit: 68162e54ed7d0c65ebaee2efa6e178ff
+[2026-06-23 10:57:25] [INFO] Description cache hit: 29509f76015e6c36c6fa47819661e092
+[2026-06-23 10:57:25] [INFO] Description cache hit: 052b0628c27368926fad83cc45f6b720
+[2026-06-23 10:57:25] [INFO] Description cache hit: 50343ab519689b0c79d7144ebde131d2
+[2026-06-23 10:57:25] [INFO] Description cache hit: 927e6db83376f5efe39a4990a5e32936
+[2026-06-23 10:57:25] [INFO] Description cache hit: 517c2bf5c81ce200814484ee6877d671
+[2026-06-23 10:57:25] [INFO] Description cache hit: 6b37df010217e6b949f331c47b7fbf64
+[2026-06-23 10:57:25] [INFO] Description cache hit: e3d22e66a45158669b540523415fb480
+[2026-06-23 10:57:25] [INFO] Description cache hit: 8d5007f8cf6963128c005e5ddea34304
+[2026-06-23 10:57:25] [INFO] Description cache hit: e566f72c748bf6cdd45c6166da4fb137
+[2026-06-23 10:57:25] [INFO] Description cache hit: 30a32da6eba549682a3d802afbe93aaa
+[2026-06-23 10:57:25] [INFO] Description cache hit: 5516e113e32d78423b32b1c24f2f15e9
+[2026-06-23 10:57:25] [INFO] Description cache hit: d9a08fcabb50a65c2a1ae39cb96af0cb
+[2026-06-23 10:57:25] [INFO] Description cache hit: 6902ec004b6791f0c4181b043f20c9a9
+[2026-06-23 10:57:25] [INFO] Description cache hit: 11e917febfa0ad165a56e93680b6a225
+[2026-06-23 10:57:25] [INFO] Description cache hit: 59a9870bd48dc967cb59dd0fe58f4580
+[2026-06-23 10:57:25] [INFO] Description cache hit: 157b737c19f9b1d184219ea919e75946
+[2026-06-23 10:57:25] [INFO] Description cache hit: 613e28f2a9289ffa127158ec25610006
+[2026-06-23 10:57:25] [INFO] Description cache hit: 525537abe7837fd611bb3eca11f50953
+[2026-06-23 10:57:25] [INFO] Description cache hit: 3acc89da42ef9b297a42aa3e4072c0a1
+[2026-06-23 10:57:25] [INFO] Description cache hit: b628f50b311d4b998045a6be1d4fbdd6
+[2026-06-23 10:57:25] [INFO] Description cache hit: a8569f12bab8743fe8755b11b5d6c71b
+[2026-06-23 10:57:25] [INFO] Description cache hit: 5ae95e2be2194fff59d91f0e05f3aa32
+[2026-06-23 10:57:25] [INFO] Description cache hit: f76661573f87b7208ad2581daea29cc8
+[2026-06-23 10:57:25] [INFO] Description cache hit: 0024ccd0164414ca223c689dab272b50
+[2026-06-23 10:57:25] [INFO] Description cache hit: e81e144848e660f16b56b38cefaa001c
+[2026-06-23 10:57:25] [INFO] Description cache hit: e3db50b1b09b829bbff6d0cbc9039d8a
+[2026-06-23 10:57:25] [INFO] Description cache hit: e57e1f2d99fdd25b2cc46a9fcdeb9a49
+[2026-06-23 10:57:25] [INFO] Description cache hit: e374bf2c89d0137e30a1b8186050be19
+[2026-06-23 10:57:25] [INFO] Description cache hit: 36879b9a787afc1a41171a9d9d548c48
+[2026-06-23 10:57:25] [INFO] Description cache hit: c74b087198ab7876a2842566204355ad
+[2026-06-23 10:57:25] [INFO] Description cache hit: 8348388b59eea111062823cf872746ac
+[2026-06-23 10:57:25] [INFO] Description cache hit: 3419284c750c0e32a2d51ebd29d4cabf
+[2026-06-23 10:57:25] [INFO] Description cache hit: 81068636a0a40e945fb55c9928773e28
+[2026-06-23 10:57:25] [INFO] Description cache hit: 2439e195808f9cd630ff17ddea3977da
+[2026-06-23 10:57:25] [INFO] Description cache hit: 1eae732ed02c2cc31ceaa04c1310adc3
+[2026-06-23 10:57:25] [INFO] Description cache hit: 87b07e9bb1cfbca79e4d8847809b33d4
+[2026-06-23 10:57:25] [INFO] Description cache hit: 3983b18aa1ace107aabae8366eb41758
+[2026-06-23 10:57:25] [INFO] Description cache hit: f3c24ea729f2cd7c802d277cb005fb9b
+[2026-06-23 10:57:25] [INFO] Description cache hit: 5975740ddacd8081fff9c89769596b69
+[2026-06-23 10:57:25] [INFO] Description cache hit: df5bef824dc415c8d4e467bb5c45b640
+[2026-06-23 10:57:25] [INFO] Description cache hit: 378a8d72a58a661e47a21f42fa9bf1e6
+[2026-06-23 10:57:25] [INFO] Description cache hit: d26394602ec30bf2a9c98ce77ff6d34b
+[2026-06-23 10:57:25] [INFO] Description cache hit: 4abfefac68edd539f2449f968b5adddc
+[2026-06-23 10:57:25] [INFO] Description cache hit: 8d21d589049ff23f6d9ae3e748ab36e4
+[2026-06-23 10:57:25] [INFO] Description cache hit: 198a78237fd7df57a3940e8168009fd6
+[2026-06-23 10:57:25] [INFO] Description cache hit: 8354d5652c8559db8bf9b0859927d805
+[2026-06-23 10:57:25] [INFO] Description cache hit: 4127c267019cd333c33795f9b62fc269
+[2026-06-23 10:57:25] [INFO] Description cache hit: 7160c3b5e8a1404676786bf1118f5798
+[2026-06-23 10:57:25] [INFO] Description cache hit: a19005c4e5bbe9b8736d7ea28ab33ebc
+[2026-06-23 10:57:25] [INFO] Description cache hit: 67a1094eace5d1e9c250d4e794ca4a7c
+[2026-06-23 10:57:25] [INFO] Description cache hit: 1c48828a32b63a1e68151e65c69bc3f8
+[2026-06-23 10:57:25] [INFO] Description cache hit: eeda27e9578fb43bb134ae5026267c55
+[2026-06-23 10:57:25] [INFO] Description cache hit: bd8c295c24e42427940952afb4af56a0
+[2026-06-23 10:57:25] [INFO] Description cache hit: 516cfe1b7016c75b77764084117218e3
+[2026-06-23 10:57:25] [INFO] Description cache hit: ac2172dd5e989144c60db46bf59460d0
+[2026-06-23 10:57:25] [INFO] Description cache hit: cb731fe1eaf9df980c7d29716c63e777
+[2026-06-23 10:57:25] [INFO] Description cache hit: 89bd324d0d332015b88dfa1c7cf0dc7e
+[2026-06-23 10:57:25] [INFO] Description cache hit: a4dcfbd5e9f876e81e40a275dc9b8267
+[2026-06-23 10:57:25] [INFO] Description cache hit: 2d053770c644c85aad11d264d5219a5b
+[2026-06-23 10:57:25] [INFO] Description cache hit: 68048f69cd5c9374557cc2aa74e12977
+[2026-06-23 10:57:25] [INFO] Description cache hit: ec60061f7c4856c467ac40398c2459e0
+[2026-06-23 10:57:25] [INFO] Description cache hit: fc061ffa06d4e2816d0ee062f0dd399e
+[2026-06-23 10:57:25] [INFO] Description cache hit: d2d4654a9ce144c2a95550252481b3ca
+[2026-06-23 10:57:25] [INFO] Description cache hit: 9a5745a5124ca67ec8b7e0821b4a40dd
+[2026-06-23 10:57:25] [INFO] Description cache hit: e6fab0ac843555c2cef73092eaad224e
+[2026-06-23 10:57:25] [INFO] Description cache hit: 8fc22032fc2e8f525a01fa4da2e5905c
+[2026-06-23 10:57:25] [INFO] Description cache hit: 11e765f30dc498044f150b689f9d419a
+[2026-06-23 10:57:25] [INFO] Description cache hit: 01acb5f9654e2dfbcf3084dbd0dc0aff
+[2026-06-23 10:57:26] [INFO] Description cache hit: e05cb323d670e6f9d4285f8232de4fb1
+[2026-06-23 10:57:26] [INFO] Description cache hit: 0e120868ded8ad1660d998dd8be7316f
+[2026-06-23 10:57:26] [INFO] Description cache hit: 4afb901ad464b05f27012c93bb5ab81a
+[2026-06-23 10:57:26] [INFO] Description cache hit: eed8fbb0f6c436af4662481eab55c98a
+[2026-06-23 10:57:26] [INFO] Description cache hit: a31cde13dac58bbcd9ee7adbf309b510
+[2026-06-23 10:57:26] [INFO] Description cache hit: 743e17d0b0ba445c8276f2426aca5fe8
+[2026-06-23 10:57:26] [INFO] Description cache hit: f4a67a19b71da95d1581ccd8e862aeb4
+[2026-06-23 10:57:26] [INFO] Description cache hit: b64b1f288dbfc753f9436d7e14559310
+[2026-06-23 10:57:26] [INFO] Description cache hit: a0bf15b653a874d396aac7a7037335f4
+[2026-06-23 10:57:26] [INFO] Description cache hit: 851e08d3cd1ebe1dbc26b7a016ef61b8
+[2026-06-23 10:57:26] [INFO] Description cache hit: 0ceae19c59a079f82b7eaeab081b11c8
+[2026-06-23 10:57:26] [INFO] Description cache hit: 5c5713cd4fe9d209e3fffcccf95c7378
+[2026-06-23 10:57:26] [INFO] Description cache hit: 65e63cd1fc05608eab5f2de10e64edaa
+[2026-06-23 10:57:26] [INFO] Description cache hit: 74a911c7e6d6336751567c53945fd9bc
+[2026-06-23 10:57:26] [INFO] Description cache hit: 03780b42bd6849893c64f02b5f2f7487
+[2026-06-23 10:57:26] [INFO] Source run | RemoteOK Business Intelligence | status=success | jobs=100
+[2026-06-23 10:57:26] [INFO] RemoteOK Business Intelligence: 100 jobs in 3.34s
+[2026-06-23 10:57:26] [INFO] Source: Jobicy Data Analytics Remote (jobicy_api)
+[2026-06-23 10:57:29] [INFO] Fetched: https://jobicy.com/api/v2/remote-jobs?count=50&tag=data-analyst
+[2026-06-23 10:57:29] [INFO] Jobicy Data Analytics Remote parsed 0 jobs
+[2026-06-23 10:57:29] [INFO] Source run | Jobicy Data Analytics Remote | status=success | jobs=0
+[2026-06-23 10:57:29] [INFO] Jobicy Data Analytics Remote: 0 jobs in 2.09s
+[2026-06-23 10:57:29] [INFO] Source: Jobicy Business Intelligence Remote (jobicy_api)
+[2026-06-23 10:57:33] [INFO] Fetched: https://jobicy.com/api/v2/remote-jobs?count=50&tag=business-intelligence
+[2026-06-23 10:57:33] [INFO] Jobicy Business Intelligence Remote parsed 0 jobs
+[2026-06-23 10:57:33] [INFO] Source run | Jobicy Business Intelligence Remote | status=success | jobs=0
+[2026-06-23 10:57:33] [INFO] Jobicy Business Intelligence Remote: 0 jobs in 1.69s
+[2026-06-23 10:57:33] [INFO] Source: MCF Singapore Analytics (mcf_api)
