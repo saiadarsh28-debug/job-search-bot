@@ -2,6 +2,8 @@ import argparse
 import hashlib
 import time
 
+from sheets_writer import append_jobs_to_sheet
+
 from config import ALERT_CATEGORIES
 
 from database import (
@@ -271,12 +273,14 @@ def run(
                 )
 
                 for match in matches:
-
                     mark_alert_sent(
                         match["job_id"],
                         category_name,
                         match["score"]
                     )
+
+            # Update Google Sheet ONCE after all emails sent
+            append_jobs_to_sheet(matches_by_category)
 
         # -------------------------------------------------
         # COMPLETE
